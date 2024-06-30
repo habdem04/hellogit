@@ -4,6 +4,10 @@ app_publisher = "HD"
 app_description = "This app is developed to test frappe"
 app_email = "habdem2003@gmail.com"
 app_license = "mit"
+
+# app_include_js = "/assets/demo_app/js/custom_about.js"
+
+
 # required_apps = []
 
 # Includes in <head>
